@@ -1,6 +1,8 @@
 # ToyStoreKPI
-This dashboard is interesting and relevant as it provides a comprehensive overview of store performance, highlighting key metrics such as total orders, revenue, and profit. It also breaks down orders by product category and shows revenue trends over time, which can be useful for making informed business decisions.
-<img src='toy store.png' height=500><br>
+This dashboard is interesting and relevant as it provides a comprehensive overview of store performance, highlighting key metrics such as total orders, revenue, and profit. It also breaks down orders by product category and shows revenue trends over time, which can be useful for making informed business decisions.<br/>
+<br/>
+<br/>
+<img src='toy store.png' height=500><br/>
 <br/>
 <br/>
 
