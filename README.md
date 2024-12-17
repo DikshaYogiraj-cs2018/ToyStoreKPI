@@ -23,5 +23,6 @@ This dashboard is interesting and relevant as it provides a comprehensive overvi
 <li>Sports & Outdoors: Slightly less than Games</li>
 
 <li>Electronics: Slightly less than Sports & Outdoors</li>
-
+<br/>
+<br/>
 5.Revenue by Month Line Chart: A line chart shows the revenue trend from January 2022 to around July 2023. The revenue fluctuates, peaking around early 2023 and then declining towards mid-2023.<br/>
